@@ -14,6 +14,8 @@ Other Bots have been made to play Smash. To see what a Bot that wins almost all 
 
 This project is a revist for me to learn new Python AI frameworks, to see if I can improve upon the original concept.
 
+With that in mind, going to use PyTorch instead of TensorFlow as it seems to be the more frequently updated and in use option.
+
 ## See it in Action
 
 ### Playlist of videos
